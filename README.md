@@ -1,6 +1,11 @@
 # JogoMemoriaCat
 Criação de uma jogo de memória, desafio proposto pela Web Dio.
 
+# Quer Joga? Clica no Pc
+
+<a href="https://gabriellekw.github.io/JogoMemoriaCat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271109.png" alt="gabekw.jgmemoriacat" height="40" width="40" /></a>
+</p>
+
 # Jogo
 <h3 align="center"> 
   
